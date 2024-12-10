@@ -5,7 +5,7 @@ This project is a Java-based web application designed for managing user profiles
 
 ## Project Structure
 
-### 1. **Source Code (`src/main/java/com/backend/`)**
+### 1. **Source Code (`main/java/com/backend/`)**
 - **Addfriendservlet.java**: Handles the addition of friends.
 - **Displayprofileservlet.java**: Displays user profiles.
 - **Loginservlet.java**: Manages user authentication.
@@ -21,7 +21,7 @@ This project is a Java-based web application designed for managing user profiles
 - **Uploadpostsservlet.java**: Handles post uploads.
 - **User.java**: Represents the user model.
 
-### 2. **Configuration (`src/main/resources/`)**
+### 2. **Configuration (`main/resources/`)**
 - **application.properties**: Contains application configurations.
 
 ### 3. **Frontend (`src/main/resources/static/`)**
@@ -30,15 +30,15 @@ This project is a Java-based web application designed for managing user profiles
 - **register.html**: User registration page.
 - **updateprofile.html**: Update profile page.
 
-### 4. **Images (`src/main/webapp/images/`)**
+### 4. **Images ('main/webapp/images/`)**
 - A collection of user-uploaded images and assets for the application.
 
-### 5. **Views (`src/main/webapp/WEB-INF/jsp/`)**
+### 5. **Views (`main/webapp/WEB-INF/jsp/`)**
 - **profile.jsp**: Displays the user profile.
 - **search.jsp**: Search results page.
 - **searchedprofile.jsp**, **searchedprofile2.jsp**: Different layouts for searched profiles.
 
-### 6. **Tests (`src/test/java/com/backend/`)**
+### 6. **Tests (`test/java/com/backend/`)**
 - **SocialmediawebsiteApplicationTests.java**: Contains tests for the application.
 
 ## Features
