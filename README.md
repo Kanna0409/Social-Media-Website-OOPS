@@ -67,10 +67,5 @@ This project is a Java-based web application designed for managing user profiles
    ```
 5. Access the application at `http://localhost:8080`.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
